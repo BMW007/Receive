@@ -38,3 +38,7 @@
 *.uvproj
 *.uvopt
 *.uvgui.Fzu_Xmu_bmw
+*.lst
+*.dep
+*.map
+*.bak
