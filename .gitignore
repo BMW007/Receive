@@ -1,26 +1,26 @@
-# Object files
+# Object files (目标文件)
 *.o
 *.ko
 *.obj
 *.elf
 
-# Precompiled Headers
+# Precompiled Headers (预编译头文件)
 *.gch
 *.pch
 
-# Libraries
+# Libraries (库文件)
 *.lib
 *.a
 *.la
 *.lo
 
-# Shared objects (inc. Windows DLLs)
+# Shared objects (inc. Windows DLLs 共享对象)
 *.dll
 *.so
 *.so.*
 *.dylib
 
-# Executables
+# Executables  (可执行文档)
 *.exe
 *.out
 *.app
@@ -28,10 +28,10 @@
 *.x86_64
 *.hex
 
-# Debug files
+# Debug files (调试文件)
 *.dSYM/
 
-#my personal rule for C&Keil
+#my personal rule for C&Keil (小明新增)
 /STM32F10x_FWLib/*
 /OBJ/*
 /CORE/*
